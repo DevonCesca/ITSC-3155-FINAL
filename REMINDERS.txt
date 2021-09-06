@@ -1,4 +1,4 @@
 git add 'file name'
 git commit -m 'your message'
 git push -u origin master
-SprintDay
+SprintDay DUE SEPT 12TH
