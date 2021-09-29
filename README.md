@@ -1,1 +1,1 @@
-Beginning of my final project for ITSC-3155
+Beginning of my semester project for ITSC-3155
